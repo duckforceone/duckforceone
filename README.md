@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=duckforceone&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duckforceone&theme=Gradient)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rndrmu&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rndrmu&theme=Gradient)
 
 <!--
 **duckforceone/duckforceone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
