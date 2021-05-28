@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![github stats](https://github-readme-stats.vercel.app/api?username=rndrm&show_private=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=rndrmu&show_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rndrmu&theme=Gradient)
 
 <!--
